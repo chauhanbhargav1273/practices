@@ -16,7 +16,7 @@ for i in s:
     elif i.isnumeric():
         digit+=1
     elif i.isspace():
-        space+=1
+        space+=1        
 
 print("total upper = ",upper)
 print("total lower = ",lower)
